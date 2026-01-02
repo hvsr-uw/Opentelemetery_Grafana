@@ -2,6 +2,8 @@
 
 This is a [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-dotnet)/[Grafana](https://github.com/grafana/grafana)/[Prometheus](https://github.com/prometheus/prometheus)/[Tempo](https://github.com/grafana/tempo)/[Loki](https://github.com/grafana/loki) playground.
 
+Checkout story behind this story on [Medium](https://medium.com/@harshrathore1098/seeing-inside-distributed-systems-building-an-observability-stack-with-opentelemetry-and-grafana-187e73b35567)
+
 The following components are used:
 
 ![components](components.png)
